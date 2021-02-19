@@ -8,7 +8,12 @@
     <artifactId>mycloud_Hoxton_Alibaba</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>cloud_pay_8001</module>
+        <module>cloud_provider_payment_8001</module>
+        <module>cloud_consumer_order_80</module>
+        <module>cloud_api_commons</module>
+        <module>cloud_eureka_server_7001</module>
+        <module>cloud_eureka_server_7002</module>
+        <module>cloud_provider_payment_8002</module>
     </modules>
     <packaging>pom</packaging>
 
